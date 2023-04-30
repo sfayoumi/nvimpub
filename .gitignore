@@ -1,0 +1,6 @@
+
+# Ignore plugins, but keep .gitkeep file
+plugged/*
+!plugged/.gitkeep
+.luarc.json
+
